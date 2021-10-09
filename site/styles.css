@@ -1,11 +1,13 @@
+
+/* all h1 elements*/
 h1 {
     background-color: #ff0000;
   }
-  
+  /* all h2 elements*/
   h2 {
     background-color: #0000FF;
   }
-  
+  /* all h3 elements*/
   h3 {
     background-color: #00FF00;
   }
@@ -14,3 +16,14 @@ h1 {
     background-color: #000000;
     color: #ffffff;
   }
+/* all h4 elements*/
+  h4 {background-color: lightblue;
+text-align: center;
+color: whitesmoke;
+
+/*selecting all article elements*/
+article {font-size: 14px;
+line-height: 1.1px;
+}
+
+
